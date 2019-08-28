@@ -1,0 +1,2 @@
+# Test
+`npx jest test/`
